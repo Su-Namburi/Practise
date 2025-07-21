@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d075037-25f1-4c35-8b98-e6e9634f433a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/AlternateSeating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/BitonicSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/ContinuousOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/DupliacteNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/FirstLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/Gauntlets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/LeftRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/Matrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/MaxNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/MinMaxPartition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/OddElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/SumOfPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interfaces/Interfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interfaces/src/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interfaces/src/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBL Practise/singleton/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBL Practise/singleton/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBL Practise/singleton/Temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBL Practise/staticTest/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBL Practise/staticTest/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/LinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/src/LL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/Lists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/src/ModificationExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/src/StreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/src/WorkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maps/Maps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maps/src/FilterMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maps/src/IsUnique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maps/src/LeftSumRightSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maps/src/OneAway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maps/src/PalindromePermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maps/src/TripleTrouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maps/src/UniqueElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matrices/Matrices.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matrices/src/MatrixSubsum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular/Regular.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular/src/AddReverseNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular/src/Binary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular/src/BinaryExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular/src/BinaryRepresentation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular/src/GcdAndLcm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular/src/LeftHalfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular/src/ListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular/src/ObjectClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular/src/Polymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular/src/StreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regular/src/TrailingZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stacks/Stacks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stacks/src/ImplementStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/src/Matching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/src/URLify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/src/WayTooLongWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadsDemo/ThreadsDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadsDemo/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadsDemo/src/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadsDemo/src/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codechef/codeforces.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2sIJepDx3Vcxb1ANN8WWLCUzheK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AddReverseNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AlternateSeating.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayListExp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.B.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Binary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinaryExp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BitLanguage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BitonicSequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContinuousOnes.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.CountSetBits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FActorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstLast.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Gauntlets.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GcdAndLcm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HollowDiamond.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IsUnique.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeftHalfPyramid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeftRotation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeftSumRightSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Matching.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MatrixSubsum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ModificationExceptionDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ObjectClassDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OneAway.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromePermutation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PowerOfTwo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Result.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RightTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfArrayElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrailingZeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TripleTrouble.executor&quot;: &quot;Run&quot;,
+    &quot;Application.URLify.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WayTooLongWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WorkTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/sudhak45/prog-prob-jav/arrays/Practise/Practise/Interfaces/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.35517243&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d075037-25f1-4c35-8b98-e6e9634f433a" name="Changes" comment="" />
+      <created>1738137256412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738137256412</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/codechef/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Strings/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Regular/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Arrays/src/BubbleSort.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Matrices/src/MatrixSubsum.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lists/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Regular/src/LeftHalfPyramid.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Stacks/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ThreadsDemo/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Interfaces/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
