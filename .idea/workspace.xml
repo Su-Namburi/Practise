@@ -5,83 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d075037-25f1-4c35-8b98-e6e9634f433a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Arrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/AlternateSeating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/BitonicSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/ContinuousOnes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/DupliacteNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/FirstLast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/Gauntlets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/LeftRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/Matrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/MaxNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/MinMaxPartition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/OddElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/SumOfPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interfaces/Interfaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interfaces/src/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interfaces/src/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBL Practise/singleton/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBL Practise/singleton/RedisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBL Practise/singleton/Temp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBL Practise/staticTest/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBL Practise/staticTest/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/LinkedList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/src/LL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/src/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/Lists.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/src/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/src/ModificationExceptionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/src/StreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/src/WorkTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maps/Maps.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maps/src/FilterMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maps/src/IsUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maps/src/LeftSumRightSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maps/src/OneAway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maps/src/PalindromePermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maps/src/TripleTrouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maps/src/UniqueElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matrices/Matrices.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matrices/src/MatrixSubsum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular/Regular.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular/src/AddReverseNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular/src/Binary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular/src/BinaryExp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular/src/BinaryRepresentation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular/src/GcdAndLcm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular/src/LeftHalfPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular/src/ListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular/src/ObjectClassDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular/src/Polymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular/src/StreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regular/src/TrailingZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stacks/Stacks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stacks/src/ImplementStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/Strings.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/src/Matching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/src/URLify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/src/WayTooLongWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadsDemo/ThreadsDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadsDemo/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadsDemo/src/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadsDemo/src/ThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codechef/codeforces.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,69 +32,69 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.A.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AddReverseNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AlternateSeating.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayListExp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.B.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Binary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinaryExp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BitLanguage.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BitonicSequence.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BubbleSort.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Client.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContinuousOnes.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.CountSetBits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FActorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstLast.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Gauntlets.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GcdAndLcm.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HollowDiamond.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InsertionSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IsUnique.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeftHalfPyramid.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeftRotation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeftSumRightSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ListDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Matching.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MatrixSubsum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxNum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ModificationExceptionDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ObjectClassDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OddElements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OneAway.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PalindromePermutation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PowerOfTwo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Result.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RightTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfArrayElements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TrailingZeros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TripleTrouble.executor&quot;: &quot;Run&quot;,
-    &quot;Application.URLify.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WayTooLongWords.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WorkTest.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/sudhak45/prog-prob-jav/arrays/Practise/Practise/Interfaces/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.35517243&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.A.executor": "Run",
+    "Application.AddReverseNumbers.executor": "Run",
+    "Application.AlternateSeating.executor": "Run",
+    "Application.ArrayListExp.executor": "Run",
+    "Application.B.executor": "Run",
+    "Application.Binary.executor": "Run",
+    "Application.BinaryExp.executor": "Run",
+    "Application.BinarySearch.executor": "Run",
+    "Application.BitLanguage.executor": "Run",
+    "Application.BitonicSequence.executor": "Run",
+    "Application.BubbleSort.executor": "Debug",
+    "Application.Client.executor": "Run",
+    "Application.ContinuousOnes.executor": "Debug",
+    "Application.CountSetBits.executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.FActorial.executor": "Run",
+    "Application.FirstLast.executor": "Run",
+    "Application.Gauntlets.executor": "Run",
+    "Application.GcdAndLcm.executor": "Run",
+    "Application.HollowDiamond.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
+    "Application.IsUnique.executor": "Run",
+    "Application.LeftHalfPyramid.executor": "Run",
+    "Application.LeftRotation.executor": "Run",
+    "Application.LeftSumRightSum.executor": "Run",
+    "Application.ListDemo.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Matching.executor": "Run",
+    "Application.MatrixSubsum.executor": "Run",
+    "Application.MaxNum.executor": "Run",
+    "Application.MergeSort.executor": "Run",
+    "Application.ModificationExceptionDemo.executor": "Run",
+    "Application.ObjectClassDemo.executor": "Run",
+    "Application.OddElements.executor": "Run",
+    "Application.OneAway.executor": "Run",
+    "Application.PalindromePermutation.executor": "Run",
+    "Application.PowerOfTwo.executor": "Run",
+    "Application.Result.executor": "Run",
+    "Application.RightTriangle.executor": "Run",
+    "Application.Sample.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
+    "Application.StreamDemo.executor": "Run",
+    "Application.SumOfArrayElements.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.ThreadDemo.executor": "Run",
+    "Application.TrailingZeros.executor": "Run",
+    "Application.TripleTrouble.executor": "Run",
+    "Application.URLify.executor": "Run",
+    "Application.WayTooLongWords.executor": "Run",
+    "Application.WorkTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/sudhak45/prog-prob-jav/arrays/Practise/Practise/Interfaces/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.35517243",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
