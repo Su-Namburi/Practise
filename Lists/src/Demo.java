@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -12,19 +13,22 @@ public class Demo {
         );
         List<String> allSkills = new ArrayList<>();
         List<String> skillWithS = new ArrayList<>();
-        for(List<String> innerList : skillList) {
-            for(String skill : innerList) {
-                allSkills.add(skill);
-                if(skill.startsWith("s")) {
-                    skillWithS.add(skill);
-                }
-            }
-        }
-        List<String> all = skillList.stream().flatMap(List :: stream).collect(Collectors.toList());
-        List<String> st = allSkills.stream().filter(s -> s.startsWith("s")).collect(Collectors.toList());
+//        for(List<String> innerList : skillList) {
+//            for(String skill : innerList) {
+//                allSkills.add(skill);
+//                if(skill.startsWith("s")) {
+//                    skillWithS.add(skill);
+//                }
+//            }
+//        }
+        allSkills = skillList.stream().flatMap(List::stream).collect(Collectors.toList());
+        System.out.println(allSkills);
+        skillWithS = allSkills.stream().filter(s -> s.startsWith("S")).collect(Collectors.toList());
+        System.out.println(skillWithS);
+        List<String> upper = allSkills.stream().map(s -> s.toUpperCase()).collect(Collectors.toList());
+        System.out.println(upper);
 
-        //System.out.println(allSkills);
-        //System.out.println(skillWithS);
-        System.out.println(st);
+        Collections.sort(allSkills,Collections.reverseOrder());
+        System.out.println(allSkills);
     }
 }
